@@ -56,7 +56,7 @@ Whether you're learning programming, debugging an assignment, or exploring codeb
 
 ---
 
-## ⚙ Technologies Used
+## Technologies Used
 
 | Tool            | Purpose                                     |
 |------------------|----------------------------------------------|
@@ -67,12 +67,12 @@ Whether you're learning programming, debugging an assignment, or exploring codeb
 
 ---
 
-## 🚀 How to Set It Up and Run
+## How to Set It Up and Run
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/your-username/AI-Code-Assistant.git
-   cd AI-Code-Assistant
+   git clone https://github.com/your-username/AI-Powered-Code-Assistant-and-Analyzer.git
+   cd AI-Powered-Code-Assistant-and-Analyzer
    ```
 
 2. **Create and activate a virtual environment**
@@ -104,9 +104,9 @@ Done! The assistant will open in your browser.
 
 ---
 
-## 🧠 Examples to Try
+## Examples to Try
 
-### ✅ Chat Prompt Examples
+### Chat Prompt Examples
 Try typing the following in the chat:
 - Generate a Python function to find prime numbers
 - Explain this JavaScript code with async/await
@@ -119,7 +119,7 @@ Try typing the following in the chat:
 
 ---
 
-## 🔐 Environment Variable
+## Environment Variable
 
 | Variable             | Description                             |
 |----------------------|-----------------------------------------|
