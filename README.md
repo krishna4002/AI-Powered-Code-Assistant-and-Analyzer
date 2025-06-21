@@ -6,7 +6,7 @@ This project is an all-in-one *intelligent programming assistant* built using op
 - **Explain existing code**
 - **Analyze uploaded programs**
 
-All this is done interactively using a simple *Streamlit web interface* powered by an advanced AI model hosted on *OpenRouter*.
+All this is done interactively using a simple **Streamlit web interface** powered by an advanced AI model hosted on **OpenRouter**.
 
 ---
 
@@ -71,7 +71,7 @@ Whether you're learning programming, debugging an assignment, or exploring codeb
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/your-username/AI-Powered-Code-Assistant-and-Analyzer.git
+   git clone https://github.com/krishna4002/AI-Powered-Code-Assistant-and-Analyzer.git
    cd AI-Powered-Code-Assistant-and-Analyzer
    ```
 
